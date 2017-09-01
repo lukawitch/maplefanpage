@@ -1,4 +1,12 @@
-    table{
+@font-face{
+font-family:Goyang;
+src:url(Goyang.eot);
+src:local(※), url(Goyang.ttf) format('truetype')
+}
+body{
+  font-family:Goyang;
+  font-size:20px;}
+table{
      height:100px;
     font-size:11px;
    }
