@@ -24,7 +24,7 @@
   <div class="card-block">
     <h4 class="card-title text-center">소울마스터</h4>
     <p class="card-text text-center">시그너스</p>
-    <a href="#" class="btn btn-secondary col-md-8 offset-md-2">세부사항</a>
+    <a href="./soulmaster.php" class="btn btn-secondary col-md-8 offset-md-2">세부사항</a>
   </div>
 </div>
     </div>
